@@ -1,0 +1,23 @@
+{
+  "dataset_shape": [
+    284807,
+    34
+  ],
+  "missing_values": 0,
+  "duplicates": 1081,
+  "fraud_rate": 0.001727485630620034,
+  "top_correlated_features": [
+    "V17",
+    "V14",
+    "V12",
+    "V10",
+    "V16",
+    "V3",
+    "V7",
+    "V11",
+    "V4",
+    "V18"
+  ],
+  "amount_outliers_pct": 11.201971861646658,
+  "time_span_hours": 47.99777777777778
+}

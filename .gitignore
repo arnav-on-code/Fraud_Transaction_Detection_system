@@ -1,0 +1,3 @@
+data/raw/creditcard.csv
+data/processed/fraud.db
+data/processed/fraud_data_clean.csv
